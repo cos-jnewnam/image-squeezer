@@ -859,6 +859,7 @@ body {
 }
 
 .log-item {
+  margin-top: 0.75rem;
   padding: 1.1rem 1.25rem;
   border: 1px solid var(--line);
   border-radius: var(--radius);
@@ -866,7 +867,7 @@ body {
   box-shadow: var(--shadow);
 }
 
-.log-item h3 {
+.log-item h5 {
   margin: 0 0 0.4rem;
   font-size: 1rem;
   font-weight: 700;
